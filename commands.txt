@@ -1,0 +1,11 @@
+git init    - initialize an empty directory
+git status  - display the status of current working directory and stagging area
+git config  - give global or local values like user.name and user.email
+git log     - displays the entire log history
+git checkout- move from one branch to another
+git push    - push the local directory to remote directory
+git pull    - update or replace the local directory
+git merge   - merge two branches
+git branch  -create or delete branche
+git add     - add file to stagging area
+git commit  - add file to local directory
