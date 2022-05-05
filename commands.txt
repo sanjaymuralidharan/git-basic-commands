@@ -9,3 +9,4 @@ git merge   - merge two branches
 git branch  -create or delete branche
 git add     - add file to stagging area
 git commit  - add file to local directory
+git fetch   - download contents from remote repo
